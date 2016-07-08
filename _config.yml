@@ -1,14 +1,14 @@
-layout_spectrum: 0.4235106634441763
-typography_spectrum: 0.8868794532027096
+layout_spectrum: 0.7881748720537871
+typography_spectrum: 0.626465005101636
 color:
-  brandStrength: 0.4067366202361882
-  lightness: 0.4600981918629259
-  saturation: 0.4085300581064075
-  rhythmicContrast: 0.8063540204893798
+  brandStrength: 0.3779661578591913
+  lightness: 0.7948517794720829
+  saturation: 0.16981121990829706
+  rhythmicContrast: 0.7091526866424829
   brandColors:
-    - '#170F0E'
-    - '#290418'
-    - '#505217'
-    - '#FFD372'
-    - '#FFF1AF'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: ANCIENT HERBS
