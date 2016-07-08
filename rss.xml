@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[ANCIENT HERBS]]></title>
         <description><![CDATA[ANCIENT HERBS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ancient-herbs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 17:04:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jul 2016 17:13:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ancient-herbs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a7e21e7-e155-468c-aa25-bb1642a74dd9.jpg">]]></description>
+            <link>https://thegrid.ai/ancient-herbs/d6829a16-28df-4873-9f47-c3d43960443e/index.html</link>
+            <guid isPermaLink="false">d6829a16-28df-4873-9f47-c3d43960443e</guid>
+            <pubDate>Fri, 08 Jul 2016 17:13:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64bda359-f06e-40b8-acf3-a746aed9e056.jpg">]]></description>
+            <link>https://thegrid.ai/ancient-herbs/133a8415-6164-44ce-ab3e-4aefe30dc150/index.html</link>
+            <guid isPermaLink="false">133a8415-6164-44ce-ab3e-4aefe30dc150</guid>
+            <pubDate>Fri, 08 Jul 2016 17:13:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ancient Herbs]]></title>
             <description><![CDATA[<article><h1>Ancient Herbs</h1><p>Organic Health Care Remedies</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/db2ac2de65b59fa2b5060e6f3e207824/noop?input=http%3A%2F%2Flh3.googleusercontent.com%2FS56c4S3lNhaUPkNNmHbXg-jKB1lefxQni1T8lZIW94IzWBjC_yctwxUainQQUzcRwZrZIE_yo9u5Y06PAQ%3Ds1200"></article>]]></description>
