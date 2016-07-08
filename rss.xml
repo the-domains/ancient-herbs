@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ANCIENT HERBS]]></title>
+        <description><![CDATA[ANCIENT HERBS]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Jul 2016 17:04:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ancient Herbs]]></title>
+            <description><![CDATA[<article><h1>Ancient Herbs</h1><p>Organic Health Care Remedies</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/db2ac2de65b59fa2b5060e6f3e207824/noop?input=http%3A%2F%2Flh3.googleusercontent.com%2FS56c4S3lNhaUPkNNmHbXg-jKB1lefxQni1T8lZIW94IzWBjC_yctwxUainQQUzcRwZrZIE_yo9u5Y06PAQ%3Ds1200"></article>]]></description>
+            <link>http://www.ancientherbs.healthcare/</link>
+            <guid isPermaLink="false">ce798a0f-d17b-4a51-b688-3edd5719b73b</guid>
+            <pubDate>Fri, 08 Jul 2016 17:04:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
