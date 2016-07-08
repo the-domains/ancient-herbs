@@ -70,8 +70,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=1_E613JxjBw'
 title: Ancient Herbs Inc
-datePublished: '2016-07-08T17:13:59.069Z'
-dateModified: '2016-07-08T17:13:00.611Z'
+datePublished: '2016-07-08T17:13:51.816Z'
+dateModified: '2016-07-08T17:13:16.641Z'
 starred: false
 sourcePath: _posts/2016-07-08-ancient-herbs-inc.md
 inFeed: true
